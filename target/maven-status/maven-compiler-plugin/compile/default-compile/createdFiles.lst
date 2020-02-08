@@ -1,0 +1,5 @@
+org\br\inmetrics\websocket\Application.class
+org\br\inmetrics\websocket\service\impl\EmulatorSocketServer.class
+org\br\inmetrics\websocket\service\impl\SpringSocketTextHandler.class
+org\br\inmetrics\websocket\service\impl\SpringSocketConfigurator.class
+Emulator.class
